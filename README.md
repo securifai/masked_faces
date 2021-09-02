@@ -31,10 +31,10 @@ Our repository contains:
 ## 4. Data Sets
 
 The masks for the CelebA data set are available for download at:
-[CelebA+masks](https://fmiunibuc-my.sharepoint.com/:u:/g/personal/radu_ionescu_fmi_unibuc_ro/EX8Qj6t7yklNqEO5bSCKDlQBZrPqADfTxhhEh9LYgA51yQ?e=Jcynu5)
+[CelebA+masks](https://fmiunibuc-my.sharepoint.com/:u:/g/personal/radu_ionescu_fmi_unibuc_ro/EX8Qj6t7yklNqEO5bSCKDlQBZrPqADfTxhhEh9LYgA51yQ?e=Jcynu5).
 
 The masks for the CASIA-WebFace data set are available for download at:
-[CASIA-WebFace+masks](https://fmiunibuc-my.sharepoint.com/:u:/g/personal/radu_ionescu_fmi_unibuc_ro/EYw8UUpmH0BCpsiPNlKprckBEWHzlNcWqckoNcVLC4f76Q?e=mLhdpw)
+[CASIA-WebFace+masks](https://fmiunibuc-my.sharepoint.com/:u:/g/personal/radu_ionescu_fmi_unibuc_ro/EYw8UUpmH0BCpsiPNlKprckBEWHzlNcWqckoNcVLC4f76Q?e=mLhdpw).
 
 ## 5. Software Usage
 
@@ -47,6 +47,6 @@ To run the script on the CelebA data set, use the following command:
 python apply_masks_CelebA.py
 ```
 
-## 7. Feedback
+## 6. Feedback
 
 We are happy to hear your feedback and suggestions at: tudor[dot]mare{at}securifai(dot)ro
