@@ -58,7 +58,7 @@ main directory
 
 Then use the following command:
 ```
-python apply_masks_celeba.py
+>> python apply_masks_celeba.py
 ```
 
 #### For CASIA-WebFace
@@ -69,7 +69,7 @@ main directory
 │   apply_masks_casia.py
 └───casia_masks - masks folder (from this repo)
 │   │   ...
-└───casia - dataset folder (original images)
+└───casia - data set folder (original images)
 │   │   ...
 └───masked_casia - output folder (images with overlaid masks)
     │   ...    
@@ -77,7 +77,7 @@ main directory
 
 Then use the following command:
 ```
-python apply_masks_casia.py
+>> python apply_masks_casia.py
 ```
 
 ## 6. Feedback
