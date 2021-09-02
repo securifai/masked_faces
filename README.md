@@ -23,7 +23,7 @@ Please cite the corresponding work (see citation.bib file to obtain the citation
 The COVID-19 pandemic raises the problem of adapting face recognition systems to the new reality, where people may wear surgical masks to cover their noses and mouths. Traditional data sets (e.g., CelebA, CASIA-WebFace) used for training these systems were released before the pandemic, so they now seem unsuited due to the lack of examples of people wearing masks. We propose a method for enhancing data sets containing faces without masks by creating synthetic masks and overlaying them on faces in the original images. Our method relies on Spark AR Studio, a developer program made by Facebook that is used to create Instagram face filters. In our approach, we use 9 masks of different colors, shapes and fabrics. We employ our method to generate a number of 445,446 (90%) samples of masks for the CASIA-WebFace data set and 196,254 (96.8%) masks for the CelebA data set. 
 
 Our repository contains:
-  - Images of masks with transparent background;
+  - Images of masks with transparent background.
   - Code to overlay the masks on the corresponding CelebA and CASIA-WebFace images.
 
 #### Important note: This repo does not include the original CelebA or CAISA-WebFace images. The original images should be downloaded from the original repositories.
