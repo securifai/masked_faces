@@ -4,7 +4,7 @@
 
 **Copyright (C) 2021 - SecurifAI**
 
-This package contains free data and software: you can use, redistribute and/or modify it under the terms of the Creative Commons Attribution-NonCommercial-ShareAlike 2.0 Generic (CC BY-NC-SA 2.0).
+This package contains free data and software: you can use, redistribute and/or modify it under the terms of the Creative Commons Attribution-NonCommercial-ShareAlike 2.0 Generic (CC BY-NC-SA 2.0) license.
 
 This data set and software is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
 
