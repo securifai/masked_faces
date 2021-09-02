@@ -40,21 +40,44 @@ The masks for the CASIA-WebFace data set are available for download at:
 
 For convenience, we provide Python scripts to apply the masks on the original CelebA and CASIA-WebFace images.
 
-To run the script on the CelebA / CASIA-WebFace data set, extract the respective archive in the same folder as the CelebA / CASIA-WebFace main dataset folder. Inside each script there is a celeba/casia_folder parameter and a masks_folder parameter which have to be set accordingly. The output of the script will be located in the masked_celeba/casia folder.
+To run the script on the CelebA / CASIA-WebFace data set, extract the respective archive in the same folder as the CelebA / CASIA-WebFace main dataset folder. Inside each script there is a celeba/casia_folder parameter and a masks_folder parameter which have to be set accordingly. The output of the script will be located in the masked_celeba or masked_casia folder, respectively.
+
+#### For CelebA
+
+Make sure you have the following folder structure on your machine:
 ```
 main directory
-│   apply_masks_celeba/casia.py
-└───celeba_masks/casia_masks - masks folder
+│   apply_masks_celeba.py
+└───celeba_masks - masks folder (from this repo)
 │   │   ...
-└───celeba/casia - dataset folder
+└───celeba - data set folder (original images)
 │   │   ...
-└───masked_celeba/casia - output folder
+└───masked_celeba - output folder (images with overlaid masks)
     │   ...    
 ```
 
 Then use the following command:
 ```
-python apply_masks_celeba/casia.py
+python apply_masks_celeba.py
+```
+
+#### For CASIA-WebFace
+
+Make sure you have the following folder structure on your machine:
+```
+main directory
+│   apply_masks_casia.py
+└───casia_masks - masks folder (from this repo)
+│   │   ...
+└───casia - dataset folder (original images)
+│   │   ...
+└───masked_casia - output folder (images with overlaid masks)
+    │   ...    
+```
+
+Then use the following command:
+```
+python apply_masks_casia.py
 ```
 
 ## 6. Feedback
