@@ -33,10 +33,12 @@ celeba_folder = 'img_celeba'
 img_list = glob.glob(celeba_folder + '/*.png')
 
 # folder where the masks are stored
-mask_list = glob.glob('celeba_masks/*.png')
+mask_folder = 'celeba_masks'
+mask_list = glob.glob(mask_folder + '/*.png')
 
 # output folder
 output_folder = 'masked_celeba'
+
 if not os.path.exists(output_folder):
     os.makedirs(output_folder)
     
