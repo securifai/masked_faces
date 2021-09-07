@@ -16,7 +16,7 @@ The complete license agreement can be consulted at:
 
 Please cite the corresponding work (see citation.bib file to obtain the citation in BibTex format) if you use this data set and software (or a modified version of it) in any scientific work:
 
-**[1] Tudor Mare, Georgian Duță, Mariana-Iuliana Georgescu, Adrian Șandru, Bogdan Alexe, Marius Popescu, Radu Tudor Ionescu. A realistic approach to generate masked faces applied on two novel masked face recognition data sets. ArXiv, 2021 [(link to paper)](https://arxiv.org/tba).**
+**[1] Tudor Mare, Georgian Duță, Mariana-Iuliana Georgescu, Adrian Șandru, Bogdan Alexe, Marius Popescu, Radu Tudor Ionescu. A realistic approach to generate masked faces applied on two novel masked face recognition data sets. ArXiv, 2021 [(link to paper)](http://arxiv.org/abs/2109.01745).**
 
 ## 3. Description
 
