@@ -42,7 +42,7 @@ For convenience, we provide Python scripts to apply the masks on the original Ce
 
 To run the script on the CelebA / CASIA-WebFace data set, extract the respective archive in the same folder as the CelebA / CASIA-WebFace main data set folder. Inside each script there is a celeba_folder / casia_folder parameter and a masks_folder parameter which have to be set accordingly. The output of the script will be located in the masked_celeba or masked_casia folder, respectively.
 
-Make sure to install the packages listed in requirements.txt before runnning the scripts.
+Make sure to install the packages listed in requirements.txt before running the scripts.
 
 #### For CelebA
 
