@@ -32,11 +32,11 @@ Our repository contains:
 
 The masks for the CelebA data set are available for download at:
 
-# [CelebA+masks](https://fmiunibuc-my.sharepoint.com/:u:/g/personal/radu_ionescu_fmi_unibuc_ro/EQdIsLQB9jdOkaOHV0T_wMQBSz8qQkxRm7w8Nuo_qZOoFA?e=1eekcq).
+# [CelebA+masks](https://fmiunibuc-my.sharepoint.com/:u:/g/personal/radu_ionescu_fmi_unibuc_ro/EQdIsLQB9jdOkaOHV0T_wMQBSz8qQkxRm7w8Nuo_qZOoFA?e=1eekcq)
 
 The masks for the CASIA-WebFace data set are available for download at:
 
-# [CASIA-WebFace+masks](https://fmiunibuc-my.sharepoint.com/:u:/g/personal/radu_ionescu_fmi_unibuc_ro/ETWFdcY8sAhCpbxrSiytXzUBK3PHaAxMbARlarBY-tNK3g?e=31YZOw).
+# [CASIA-WebFace+masks](https://fmiunibuc-my.sharepoint.com/:u:/g/personal/radu_ionescu_fmi_unibuc_ro/ETWFdcY8sAhCpbxrSiytXzUBK3PHaAxMbARlarBY-tNK3g?e=31YZOw)
 
 ## 5. Software Usage
 
