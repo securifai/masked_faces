@@ -1,4 +1,4 @@
-# CelebA+masks and CASIA-WebFace+masks data sets from "A realistic approach to generate masked faces applied on two novel masked face recognition data sets" - Official Repository
+# CelebA+masks and CASIA-WebFace+masks data sets from "A realistic approach to generate masked faces applied on two novel masked face recognition data sets" (NeurIPS 2021) - Official Repository
 
 ## 1. License Agreement
 
