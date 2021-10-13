@@ -4,19 +4,19 @@
 
 **Copyright (C) 2021 - SecurifAI**
 
-This package contains free data and software: you can use, redistribute and/or modify it under the terms of the Creative Commons Attribution-NonCommercial-ShareAlike 2.0 Generic (CC BY-NC-SA 2.0) license.
+This package contains free data and software: you can use, redistribute and/or modify it under the terms of the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0) license.
 
 This data set and software is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
 
 The complete license agreement can be consulted at:
-[CC BY-NC-SA 2.0](https://creativecommons.org/licenses/by-nc-sa/2.0/).
+[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/).
 
 
 ## 2. Citation
 
 Please cite the corresponding work (see citation.bib file to obtain the citation in BibTex format) if you use this data set and software (or a modified version of it) in any scientific work:
 
-**[1] Tudor Mare, Georgian Duță, Mariana-Iuliana Georgescu, Adrian Șandru, Bogdan Alexe, Marius Popescu, Radu Tudor Ionescu. A realistic approach to generate masked faces applied on two novel masked face recognition data sets. ArXiv, 2021 [(link to paper)](http://arxiv.org/abs/2109.01745).**
+**[1] Tudor Mare, Georgian Duță, Mariana-Iuliana Georgescu, Adrian Șandru, Bogdan Alexe, Marius Popescu, Radu Tudor Ionescu. A realistic approach to generate masked faces applied on two novel masked face recognition data sets. In Proceedings of NeurIPS, 2021 [(link to ArXiv version)](http://arxiv.org/abs/2109.01745).**
 
 ## 3. Description
 
