@@ -86,4 +86,4 @@ Then use the following command:
 
 ## 6. Feedback
 
-We are happy to hear your feedback and suggestions at: tudor[dot]mare{at}securifai(dot)ro
+We are happy to hear your feedback and suggestions at: tudor[dot]mare{at}securif(dot)ai
